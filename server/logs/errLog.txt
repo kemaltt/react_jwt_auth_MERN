@@ -1,0 +1,4 @@
+20240101	15:45:48	b21fc9e6-e9e4-4895-903e-f82230afc1c6	Error: Not allowed by CORS
+20240101	15:45:49	af56f4e6-92e2-4644-9f3b-f25e224dce42	Error: Not allowed by CORS
+20240101	15:47:27	02cd8189-d915-4c5f-8622-d100e1059d76	Error: Not allowed by CORS
+20240101	16:02:48	d571cc84-88f5-432d-9e2b-ac926c64c722	Error: Not allowed by CORS
